@@ -32,6 +32,8 @@ react-native bundle --entry-file index.ios.js --bundle-output ios/main.jsbundle
 ```
 - run using xcode once, then disconnect the device and run the app.
 
+## Demo
+![alt tag] (https://github.com/rsoprala/ReactIosTodo/blob/master/demo.png)
 
 ## References
 ** Special thanks to Simon for this article - https://devdactic.com/react-native-firebase-todo/ **
