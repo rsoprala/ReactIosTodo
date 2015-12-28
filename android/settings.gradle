@@ -1,0 +1,3 @@
+rootProject.name = 'ReactIosTodo'
+
+include ':app'
